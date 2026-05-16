@@ -1,4 +1,4 @@
-# 
+# advanced nft arbitrage bot | royalty-calculator + stop-loss is the best nft arbitrage bot, featuring royalty-calculator and stop-loss. Fast, smart, and optimized for NFT trading
 
 
 
